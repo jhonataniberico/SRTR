@@ -10,6 +10,7 @@ namespace gfsdgsd
     {
         static void Main(string[] args)
         {
+            { }
         }
     }
 }
